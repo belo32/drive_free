@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context="ca.hajjar.drivefree.SettingsFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This setting will allow your device to detect when driving and mute the device accordingly and prevent any distractions during your trip."/>
+    <Switch
+        android:text="Enable automatic device mute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toggleFeatureSwitch"
+         />
+
+    <!--<Button-->
+        <!--android:id="@+id/toggleFeatureBtn"-->
+        <!--android:text="@string/enable_drivefree"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+
+        <!--&gt;</Button>-->
+</LinearLayout>

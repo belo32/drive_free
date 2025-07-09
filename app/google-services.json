@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1041376932721",
+    "firebase_url": "https://drive-free.firebaseio.com",
+    "project_id": "drive-free",
+    "storage_bucket": "drive-free.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041376932721:android:8e9b7d2873371012",
+        "android_client_info": {
+          "package_name": "ca.hajjar.drivefree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041376932721-1e2v1p4fgghfs5bomc4fnq2nfuubu9jv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1041376932721-v87mcdpiufgs6o20jlsgocllkcphp3mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCg8pO7NPbf5hiM9Xqnwlci5vEPJU_CUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
